@@ -1,5 +1,5 @@
 # PLC
-A browser based emulation of a PLC 5/25.  Knowledge of ladder logic is required to configure the PLC logic in order to have a running PLC program (this app can also be used as a ladder logic tutor).
+A browser based emulation of a PLC 5/25.  Knowledge of ladder logic is required to configure the PLC logic in order to have a running PLC program (alternately, this app can be used as a ladder logic tutor).
 
 This project is written in vanilla Javascript, and is installed and run on a client system. Aside from a Javascript browser, all dependancies are included in the project (ie no need for Node.js, React, jQuery etc etc). This code will consequently require CORS Access-Control-Allow-Origin enabled to run.
 
